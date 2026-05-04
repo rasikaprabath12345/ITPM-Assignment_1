@@ -61,7 +61,7 @@ Make sure the Excel file (`it23843134.xlsx`) is in the project folder and is **n
 Run the following command:
  
 ```cmd
-python it23843134.py --excel "it23843134.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+python it23843134.py --excel "C:\Users\ASUS\Desktop\it23843134\it23843134.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
 ```
  
 ### What happens when you run it:
