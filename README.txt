@@ -34,7 +34,7 @@ git clone https://github.com/rasikaprabath12345/ITPM-Assignment_1.git
 cd it23843134
 ```
  
-Or download the ZIP and extract to `C:\Users\ASUS\Desktop\it23843134`.
+Or download the ZIP and extract to `D:\it23843134`.
  
 ### Step 2: Install dependencies
  
